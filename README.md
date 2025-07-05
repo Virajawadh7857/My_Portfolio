@@ -53,5 +53,5 @@ Live examples of work:
 ### 🔹 Contact
 - LinkedIn,
 - GitHub,
-- Email links included
+- Email
 
