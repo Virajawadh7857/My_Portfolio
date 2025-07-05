@@ -29,25 +29,18 @@ This is my personal developer portfolio website built using **Java (Spring Boot)
 ## 📂 Project Structure
 
 portfolio/
-├── backend/
-│ ├── src/main/java/.../PortfolioController.java
-│ └── Application.java
 ├── frontend/
 │ ├── index.html
 │ ├── styles.css
 │ └── script.js
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 💼 What’s Included
 
 ### 🔹 About Me Section
-Brief summary of my experience and technologies I use.
+I am a Java Backend Developer with 3+ years of hands-on experience in designing, developing, and deploying scalable RESTful web services using Java, Spring Boot, and Hibernate. I have strong exposure to DevOps practices including Docker, CI/CD pipelines using Jenkins and GitHub Actions, and AWS (EC2, S3) for cloud deployment. I have built and maintained robust microservices and worked on real-time projects like a hotel booking system and property listing platforms.
 
 ### 🔹 Skills Section
 Key tools and platforms I work with: Java, Spring Boot, AWS, Docker, GitHub Actions, Jenkins, etc.
@@ -58,14 +51,7 @@ Live examples of work:
 - Airbnb Clone (Full Stack in Progress)
 
 ### 🔹 Contact
-- LinkedIn, GitHub, Email links included
+- LinkedIn,
+- GitHub,
+- Email links included
 
----
-
-## 🛠️ How to Run This Locally
-
-### 🖥️ Backend (Spring Boot)
-
-```bash
-cd backend
-mvn spring-boot:run
